@@ -1,2 +1,1 @@
-# Hello, I´m Alexandro! QC Tester
-
+# Hello, I´m Alexandro Blanco! QC Tester
